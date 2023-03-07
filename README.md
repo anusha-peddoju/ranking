@@ -6,3 +6,10 @@ it is JavaScript code to Read the input in JSON file and parse it using the suit
 capabilities.
 • Ranks are calculated dynamically based on the percentages.
 • the program should output the rank of the skill based on the user input.
+  
+
+How to run javascript file in nodejs environment
+   1.install node
+   2.open terminal
+   3.run command:- node filename.js
+The output of javascript file is appeared. 
